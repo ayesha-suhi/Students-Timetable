@@ -1,0 +1,272 @@
+<resources>
+    <string name="app_name">StudentsTimetable</string>
+
+    <string name="year1">1st year</string>
+    <string name="year2">2nd year</string>
+    <string name="year3">3rd year</string>
+    <string name="year4">4th year</string>
+    <string name="share">share</string>
+
+    <string-array name="Year1">
+        <item>Class Routine</item>
+        <item>Syllabus</item>
+        <item>Faculty</item>
+        <item>Resources</item>
+    </string-array>
+    <string-array name="Year2">
+        <item>Class Routine</item>
+        <item>Syllabus</item>
+        <item>Faculty</item>
+        <item>Resources</item>
+    </string-array>
+    <string-array name="Year3">
+        <item>Class Routine</item>
+        <item>Syllabus</item>
+        <item>Faculty</item>
+        <item>Resources</item>
+    </string-array>
+    <string-array name="Year4">
+        <item>Class Routine</item>
+        <item>Syllabus</item>
+        <item>Faculty</item>
+        <item>Resources</item>
+    </string-array>
+
+
+    <string-array name="Description">
+        <item>Get to know the regular class routine</item>
+        <item>Get to know the brief syllabus of every subject</item>
+        <item>Get to know faculty Teachers information</item>
+        <item>Get to know the study materials</item>
+
+    </string-array>
+
+    <string-array name="Weeks">
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+    </string-array>
+    <string-array name="Saturday">
+        <item>System Analysis and Design</item>
+        <item>Database Management System</item>
+        <item>Compiler Design</item>
+        <item>Break</item>
+        <item>Communication Engineering Lab</item>
+
+    </string-array>
+    <string-array name="Sunday">
+        <item>Database Design Lab</item>
+        <item>Compiler Design</item>
+        <item>Break</item>
+        <item>Digital Signal Processing</item>
+
+    </string-array>
+    <string-array name="Monday">
+        <item>Mobile Apps Development Lab</item>
+        <item>Break</item>
+        <item>Database Design</item>
+        <item>Communication Engineering</item>
+
+    </string-array>
+    <string-array name="Tuesday">
+        <item>System Analysis and Design</item>
+        <item>Communication Engineering</item>
+        <item>Digital Signal Processing</item>
+        <item>Break</item>
+        <item>Compiler Design Lab</item>
+
+    </string-array>
+    <string-array name="Wednesday">
+        <item>System Analysis and Design</item>
+        <item>Compiler Design</item>
+        <item>Break</item>
+        <item>Digital Signal Processing Lab</item>
+
+    </string-array>
+    <string-array name="Thursday">
+        <item>Database Design</item>
+        <item>Digital signal Processing</item>
+        <item>Break</item>
+        <item>Communication Engineering</item>
+
+    </string-array>
+    <string-array name="Time1">
+        <item>9:15AM-10:15AM</item>
+        <item>10:15AM-11:15AM</item>
+        <item>11:15AM-12:15PM</item>
+        <item>12:15PM-01:15PM</item>
+        <item>01:15PM-03:15PM</item>
+
+    </string-array>
+    <string-array name="Time2">
+        <item>9:15AM-11:15AM</item>
+        <item>10:15AM-12:15PM</item>
+        <item>12:15PM-01:15PM</item>
+        <item>01:15PM-02:15PM</item>
+
+    </string-array>
+    <string-array name="Time3">
+        <item>9:15AM-11:15AM</item>
+        <item>11:15AM-12:15PM</item>
+        <item>12:15PM-01:15PM</item>
+        <item>01:15PM-02:15PM</item>
+
+    </string-array>
+    <string-array name="Time4">
+        <item>9:15AM-10:15AM</item>
+        <item>10:15AM-11:15AM</item>
+        <item>11:15AM-12:15PM</item>
+        <item>12:15PM-01:15PM</item>
+        <item>01:15PM-03:15PM</item>
+
+    </string-array>
+    <string-array name="Time5">
+        <item>9:15AM-10:15AM</item>
+        <item>10:15AM-11:15AM</item>
+        <item>11:15AM-01:15PM</item>
+        <item>01:15PM-03:15PM</item>
+
+    </string-array>
+    <string-array name="Time6">
+        <item>9:15AM-10:15AM</item>
+        <item>10:15AM-11:15AM</item>
+        <item>11:15AM-12:15PM</item>
+        <item>12:15PM-01:15PM</item>
+
+    </string-array>
+    <string-array name="Syllabus">
+        <item>System Analysis and Design</item>
+        <item>Database Management Systems</item>
+        <item>Digital Signal Processing</item>
+        <item>Compiler Design</item>
+        <item>Communication Engineering</item>
+
+    </string-array>
+    <string-array name="SAD">
+        <item>Introduction: Introduction to information systems, general design consideration of information systems. </item>
+        <item>Overview: system concepts and the information systems environment, information needs, the concepts of MIS, the system development life cycle, the role of the systems analysis. </item>
+        <item>Systems Analysis: Systems planning and the initial investigation, information gathering, the tools of structured analysis, feasibility study, cost benefit analysis.</item>
+        <item>System Design: The process and stages of systems design, input/output and forms design, file organization and data base design.</item>
+        <item>System Implementation: system testing and quality assurance, implementation and software maintanance, hardware/software selection, project scheduling and software, Security, disaster/recoery, and ethics in system development.</item>
+        <item>Case Study: Case studies of various information systems such as: Library management system, inventory system, voter identity management system, payroll system,etc.</item>
+        <item>1. E.M.Awad : System Analysis and Design, Galgotia publication Ltd
+        \n2. P.Edwards : System Analysis and Design , McGraw-Hill
+        \n3. J.G.Burch Jr.,F.R.Strater and G. Grundnitski : Information Systems: Theory and Practice,John Wiley ans Sons.
+        \n4. G.Scott. : Principles of Management Information Systems,McGraw-Hill
+        \n5. A.Daniels and D.Yeates : Basic System Analysis,Galgottia
+        </item>
+    </string-array>
+    <string-array name="DBMS">
+        <item>Introduction: Database-System Applications, Purpose of Database Systems, View of Data, Database Languages, Relational Database, Database Design, Data Storage and Querying, Transaction Management, Database Architecture, Data Mining and Information, Retrieval, Specialty Database, Database Users and administrators.</item>
+        <item>Introduction to the Relational Model, SQL, Intermediate SQL: Structure of Relational Databases, Database Schema, Keys, Schema, Diagrams, Relational Query Languages, Relational Operations, Overview of the SQL Query, Language, SQL Data Definition, Basic Structure of SQL, Queries, Additional Basic Operations, Set Operations, Null Values, Aggregate Functions, Nested Sub-queries, Modification of the Database, Join Expressions, views, Transactions, Integrity, Constrains, SQL Data Types and Schemas, Authorization.</item>
+        <item>Advance SQL, Formal Relational Query Languages, Database Design and the E-R Model: Accessing SQL From a Programming, Language, Functions and Procedures, triggers, Recursive Queries, Advanced Aggregation Features, OLAP, The Relational Algebra, The Tuple Relational Calculus, The Domain Relational Calculus, Overview of the Design Process, Entity-Relationship Model, Constrains, Removing Redundant Attributes in Entity Sets, Entity-Relationship Diagrams, Reduction to Relational Schemas, Entity-Relationship Design Issuse, Extend E-R Features, Alternative Notations for Modeling, Data, Other Aspects of Database Design.</item>
+        <item>Relational Database Design, Application Design and Development: Features of Good Relational Designs, Atomic Domains and First From, Decomposition Using Functional Dependencies, Functional-Dependency Theory, Algorithms for Decomposition, Decomposition Using Multivalued Dependencies, More Normal Forms, Database-Design Process, Modeling Temporal Data, Multivalued Dependencies, Domain-key Normal Form,  Application Programs and Users Interfaces, Web Fundamentals, Servlets and JSP, Application Architectures, Rapid Application Development, Application performance, Application Security, Encryption and its Applications.</item>
+        <item>Data Warehousing and Mining, Information Retrieval: Decision-Support Systems, DataWarehousing, Data Mining, Classification, Association Rules, Other Types of Associations, Clustering, Other from of data mining, Relevance Ranking Using Terms, Relevance Using Hyperlinks, Synonyms, Homonyms and Ontologies, Indexing the Web, Information Retrieval: Beyond Ranking Pages, Directories and Categories.</item>
+        <item>Object-Based Databases, XML: Complex Data Types, Structured Types and Inheritance in SQL, Table Inheritance, Array and Multiset Types in SQL, Implementing O-R Features, Persistent Programming Languages, Object-Relational Mapping, Object-Oriented versus Object-Relational, Structure of XML Data, XML Document Schema, Querying and Transformation, Application Program Interfaces to XML, Storage of XML Data, XML Applications.</item>
+        <item>1. A.Silberschatz :Database System Concepts, Mcgraw-Hill.
+        \n2. Raghu RamaKrishnam, Johannes Gehrke : Database Management System, McGraw-Hill Higher Education
+        \n3.James Martin : Principle of Database Management, Prentice-hall of India Pvt Ltd
+        \n4. Ullman : database Management system, Prentice-hall Publication.
+        \n5. Abey : Oracle 8i Beginners Guide, McGraw Hill.
+        </item>
+
+
+    </string-array>
+    <string-array name="DSP">
+        <item>Introduction: signals, systems and signal processing, classification of signals, the concept of frequency in continuous time and discrete time signals, analog to digital and digital to analog conversion, Sampling and quantization.</item>
+        <item>Discrete time signals and systems: Discrete time signals, discrete time systems, analysis of discrete time linear time invariant systems, Discrete time systems described by difference eqations, implementation of discrete time systems, correlation and convolution of discrete time signals.</item>
+        <item>The z- transform: Introduction, definition of the z-transform, z-transform and ROC of infinite duration sequence, properties of z-transform inversion of the z-transform, the one-sided z-transform.</item>
+        <item>Frequency analysis of signals and systems: Frequency analysis of continuous time signals,  Frequency analysis of discrete time signals, Properties of Fourier transform of discrete time signals, Frequency domain characteristics of linear time invariant system, linear time invariant systems as frequency selective filters, Inverse systems and deconvolution.</item>
+        <item>The DFT, FFT Algorithm, Digital Filters: The DFT, Properties of the DFT, Filtering method based on DFT, Frequency analysis of signals using the DFT, FFT Algorithms, Applications of FFT Algorithm, Design of FIR and IIR filters.</item>
+        <item>Adaptive filters, Application of DSP: Adaptive system, Kalman filters, RLS adaptive filters, the steepest-descent method, the LMS filters, Speech Processing, analysis and coding, Matlab application DSP.</item>
+        <item>1. J.G.Prokis :Digital Signal Processing, Prentice-hall of India
+        \n2. Defatta : Digital Signal Processing, Wiley India Pvt Ltd
+        \n3. R.G.Lyon : Understanding Digital Signal Processing, Orling Kindersley India
+        \n4. P.R.Babu : Digital signal Processing, Scitech Publication.
+        </item>
+    </string-array>
+    <string-array name="CD">
+        <item>Introduction: Introduction to Compiler, Compiler and Translator, the structure of a compiler.</item>
+        <item>Grammars: Notation and concepts for languages and Grammars, sets ans string, Discussion and classification of Grammars, Scanner regular expression, regular definition, finite automata, LL and LR Grammars, ambiguous grammar.</item>
+        <item>Parsing: Basic parsing technique, parsers, shift reduce parsing, operator-procedure parsing, top-down parsing, bottom-up parsing, predictive parsing.</item>
+        <item>Syntax: Syntax directed translation, intermediate code generation, polish notation, parse tree and syntax trees, quadruples, triples, Boolean expression.</item>
+        <item>Symbol Table, Code Optimization: Perspective and motivation of symbol table, Symbol table content, operation on symbol table, organization of symbol table, Code optimization, sources of optimization, basic blocks, folding, loop optimization, flowgraph, induction variable elimination, reduction in strength, code motion.</item>
+        <item>Error Handling, Coding: Compile time error handling, error detection, error recovery, error repair, Code generation, object programs, problems in code generation, a machine model, a simple code generator, register allocation and assignment peephole optimization.</item>
+        <item>1. Alfred V.Aho and jeffrey D.Ullman : Principles of Compiler Design, Addison-Wesley Publication.
+            \n2. A.J.Holub : Compiler design in C, prentice-hall of India
+            \n3. Trembly and Sorensen : Theory and Practices of Compiler Writing, McGraw-Hill computer science series.
+            \n4. Hopcroft and Ulman : Introduction to Automata Theory, Languages and Computation, University of Toronto.
+            \n5. Adamek : Automata and Algebra, Kulwer Academic Publishers Norwell, MA, USA.
+        </item>
+
+    </string-array>
+    <string-array name="CE">
+        <item>Fundamental : Communication Engineering Fundamentals, Waveforms Spectra, Periodic waveforms and its properties, Fourier series, Noise and its different types.</item>
+        <item>Amplitude Modulation, Frequency Modulation: Amplitude modulation, Amplitude modulation index, Frequency spectrum for sinusoidal AM, AM broadcast Transmitter, Frequency Modulation, Sinusoidal FM, FM transmitter, FM receiver, phase Modulation.</item>
+        <item>Pulse Modulation: PCM, Quantization, Compression, PCM Receiver, Differential PCM, Delta Modulation, Sigma-Delta A/D conversion, PFM, PTM, PPM.</item>
+        <item>Digital Communication: Digital Communication, Basic Digital Communication System, Synchronization, Asynchronous Tranmission, Probability of Bit Error in Base band Transformation, Matched Filter, Eye Diagrams, Digital Carrier System, Amplitude Shift Keying, Frequency Shift Keying, Phase Shift Keying, Carrier Recovery Circuits, Differential phase Shift Keying, Error Control Coding, Block Control, Repetition Encoding, Parity Encoding, Convulation Encoding.</item>
+        <item>Propagation, Satellite Communication: Radio Wave Propagation, Mode of Propagation, Microwave System, Tropospheric Propagation, Microwave System, Tropospheric Propagation, VHF/UHF Radio Systems, Satellite Communication, Keplers First and Second Law, Orbits, Power System.</item>
+        <item>Fiber Optic Communication: Fiber Optic Communication, Propagation Within a Fiber, Modes of Propagation, Losses in Fibers, Light sources for Fiber optics, Photo detectors.</item>
+        <item>1. Behrouz A.Forouzn : Data Communication and Networking, Tata McGraw-Hill Edition
+            \n2. William Stallings : Data and Computer Communication, Prentice Hall International, Inc.
+            \n3. John M.Senior : Optical Fiber Communications, Prentice-Hall of India Pvt Ltd
+            \n4. F.Halsall : Data Communication, Computer Network and open system, Addison Wesly
+            \n5. Andrew S,Tanenbanum : Computer Networks, Prentice Hall of India Pvt.Ltd
+        </item>
+    </string-array>
+    <string-array name="titles">
+        <item> Part1 </item>
+        <item> Part2 </item>
+        <item> Part3 </item>
+        <item> Part4 </item>
+        <item> Part5 </item>
+        <item> Part6 </item>
+        <item> Recommended Books </item>
+    </string-array>
+    <string-array name="faculty_name">
+        <item> Faculty1 </item>
+        <item> Faculty2 </item>
+        <item> Faculty3 </item>
+        <item> Faculty4 </item>
+        <item> Faculty5 </item>
+        <item> Faculty6 </item>
+    </string-array>
+    <string-array name="faculty1">
+        <item> 0184648648 </item>
+        <item> abc@gmail.com </item>
+        <item> 6th Floor </item>
+    </string-array>
+    <string-array name="faculty2">
+        <item> 018464864538 </item>
+        <item> faw@gmail.com </item>
+        <item> 6th Floor </item>
+    </string-array>
+    <string-array name="faculty3">
+        <item> 0184648638 </item>
+        <item> dwhjwq@gmail.com </item>
+        <item> 3rd Floor </item>
+    </string-array>
+    <string-array name="faculty4">
+        <item> 018464863811 </item>
+        <item> dhjwq@gmail.com </item>
+        <item> 3rd Floor </item>
+    </string-array>
+    <string-array name="faculty5">
+        <item> 01846486381 </item>
+        <item> dwhwq@gmail.com </item>
+        <item> 3rd Floor </item>
+    </string-array>
+    <string-array name="faculty6">
+        <item> 018464865438 </item>
+        <item> dw@gmail.com </item>
+        <item> 3rd Floor </item>
+    </string-array>
+
+
+</resources>
+
+
+
